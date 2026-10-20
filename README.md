@@ -13,9 +13,9 @@ Proyek ini mengimplementasikan **Penyimpanan Objek Terdistribusi berbasis MinIO 
 
 ## 👥 Anggota Kelompok 4
 * Rini Fatmawati
-* Tanti
-* Firda
-* Nadif
+* Anisa Tanti Meliany
+* Karimatuzzahrah Firdausi
+* Nadifah Meidina Margo Setyo
 
 ## ⚙️ Komponen Utama & Batasan Sumber Daya
 * **Nginx Reverse Proxy & Load Balancer**: Mengatur *least_conn* routing, *failover* cepat, dan pembatasan ukuran file arsip (`client_max_body_size 0`).
