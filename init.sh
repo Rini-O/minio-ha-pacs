@@ -19,5 +19,5 @@ $MC admin policy attach local readwrite  --user radiolog
 $MC admin policy attach local readonly   --user dokter
 $MC admin policy attach local consoleAdmin --user admin
 $MC admin policy attach local readwrite  --user k6-tester
-
+sh init.sh
 echo "Selesai. Bucket pacs-images dan 4 akun dibuat di $TARGET."
